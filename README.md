@@ -1,4 +1,4 @@
-# GENIUS - DARK MODE
+# GENIUS+
 A Chrome extension that prevents you from going blind when viewing song lyrics. I do plan on adding the theme to each page with 100% accuracy.
 
 # Instructions
